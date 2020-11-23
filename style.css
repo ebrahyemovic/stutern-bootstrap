@@ -1,0 +1,172 @@
+*{
+    margin:0;
+    padding:0;
+}
+body,footer{
+    margin: 20px;
+}
+
+.imgcarousel{
+   padding: 200px;
+   font-weight: bolder;
+
+}
+
+.shop{
+
+    padding: 15px 50px;
+    color: white;
+    border: none;
+    background-color: blueviolet;
+    font-weight: bolder;
+}
+
+.browse{
+    padding: 50px 50px;
+}
+.btn-play{
+    padding: 15px 50px;
+    border: 1px solid blueviolet;
+    background-color: white;
+    border-radius: 10px;
+}
+.btn-play:hover{
+
+    background-color: blueviolet;
+}
+.spann{
+    background-color: red;
+    height:20px;
+    width:100%;
+}
+.btn{
+    color:red !important;
+}
+
+.card-title1{
+    font-size: 100px;
+}
+.imgclass{
+    margin-right: 200px;
+}
+
+.arrival{
+    justify-content: center;
+    font-size: 100px;
+    text-transform: uppercase;
+    font-weight: bolder;
+    padding: 50px;
+    color: black !important;
+}
+span{
+    text-align: center;
+}
+.btn{
+    padding: 15px 20px;
+    color: white;
+    border: none;
+    background-color: blueviolet;
+    font-weight: bolder;
+    justify-content: center;
+}
+
+
+.custom{
+    background-color: white;
+    text-align: center;
+    border: 1px solid white;
+    margin:3px;
+    color: white;
+    margin-bottom: 20px;
+    
+}
+
+.card-title2{
+    /* font-size: 200px; */
+    justify-content: center;
+    text-align: center;
+
+}
+.collection{
+    font-size: 80px;
+    padding-top: 30px;
+}
+.about-us{
+    padding: 15px 50px;
+    color: white;
+    border: none;
+    background-color: blueviolet;
+    font-weight: bolder;
+}
+
+.fact{
+    font-size: 30px;
+    padding-top: 270px;
+    padding-left: 50px;
+    color: white;
+    font-weight: bolder;
+    
+}
+.read-more {
+    background-color:#c889f5;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.imglast{
+    padding: 20px;
+}
+.footer1{
+    background-color:#f7faf9;
+    padding: 100px 10px;
+}
+.footer-color{
+    background-color: #1d2547;
+}
+
+
+ul>li{
+    list-style-type: none;
+}
+.fc{
+    color:#f0c4f2;
+    padding-top: 100px;
+    padding-bottom: 200px;
+}
+.mp-60{
+    color: white;
+    margin-bottom: 30px;
+    font-size: x-large;
+    font-weight: bolder;
+}
+.mp-61{
+    line-height: 25px;
+    color: white;
+}
+.mp-63{
+    margin-bottom: 40px;
+}
+.mp-64 li > a{
+    color: white;
+    line-height: 35px;
+}
+.mp-80{
+    color: white;
+}
+
+.faf{
+    justify-content: center;
+    text-align: center;
+}
+.mb-10 > i{
+    color: yellow;
+}
+.footer-social{
+    margin-top: 50px;
+}
+
+
+
